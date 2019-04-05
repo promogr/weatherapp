@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
             getWeather(lat, lon);
         });
     } else {
-        //todo message to user... no GPS
+        //todo message to user... no GPS no Weather!
     }
 
 });
